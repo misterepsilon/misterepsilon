@@ -15,9 +15,8 @@
 
 [![aadmberrada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadmberrada&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![aadmberrada's github stats](https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&theme=tokyonight) 
-| ![aadmberrada GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadmberrada&theme=tokyonight) |
-| --- | --- |
+| ![aadmberrada's github stats](https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&theme=tokyonight) | ![aadmberrada GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadmberrada&theme=tokyonight) |
+| ------- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadmberrada&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
 
