@@ -21,14 +21,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/aadmberrada/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Abdoul's github stats" /></a> | <a href="https://github.com/aadmberrada/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadmberrada&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/aadmberrada/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/aadmberrada/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadmberrada&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![aadmberrada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadmberrada&theme=tokyonight&hide_border=true)](https://git.io/praveenscience)
+[![aadmberrada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadmberrada&theme=theme=tokyonight&hide_border=true)](https://git.io/praveenscience)
 
-| ![aadmberrada's github stats](https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&theme=tokyonight&hide_border=true) | ![aadmberrada GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadmberrada&theme=tokyonight&hide_border=true) |
+| ![aadmberrada's github stats](https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&theme=theme=tokyonight&hide_border=true) | ![aadmberrada GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadmberrada&theme=theme=tokyonight&hide_border=true) |
 |---|----|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadmberrada&theme=tokyonight&hide_border=true) | 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadmberrada&theme=theme=tokyonight&hide_border=true) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=theme=tokyonight&hide_border=true) 
 
 
 
