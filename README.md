@@ -26,6 +26,9 @@
 
 [![aadmberrada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadmberrada&theme=tokyonight&hide_border=true)](https://git.io/praveenscience)
 
+| ![aadmberrada's github stats](https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&theme=tokyonight&hide_border=true) | ![aadmberrada GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadmberrada&theme=tokyonight&hide_border=true) |
+|---|----|
+
 
 
 
