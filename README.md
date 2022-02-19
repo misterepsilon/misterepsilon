@@ -28,7 +28,7 @@
 
 | ![aadmberrada's github stats](https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&theme=tokyonight&hide_border=true) | ![aadmberrada GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadmberrada&theme=tokyonight&hide_border=true) |
 |---|----|
-
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadmberrada&theme=tokyonight&hide_border=true) | 
 
 
 
