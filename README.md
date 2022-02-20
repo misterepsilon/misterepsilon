@@ -17,11 +17,13 @@
 ![aadmberrada GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadmberrada&theme=tokyonight&hide_border=true)
 
 
+<a href="https://github.com/aadmberrada/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadmberrada&repo=github-readme-stats&theme=buefy" />
+</a>
 
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 
 class DataScientist:
 
@@ -32,7 +34,6 @@ class DataScientist:
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
-
 
 me = DataScientist()
 me.say_hi()
