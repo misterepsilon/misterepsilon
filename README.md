@@ -9,11 +9,15 @@
   <img src="https://profile-counter.glitch.me/aadmberrada/count.svg" />
 </p>
 
+## 🔥 GitHub stats 
 | <a href="https://github.com/aadmberrada/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/aadmberrada/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadmberrada&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+## 🔥 Activity Graph
 [![aadmberrada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadmberrada&theme=tokyonight)](https://git.io/praveenscience)
 
+
+## 🔥 Streak stats
 <!-- GitHub Readme Streak Stats - https://github.com/aadmberrada/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/aadmberrada/github-readme-streak-stats">
