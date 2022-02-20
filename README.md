@@ -1,5 +1,15 @@
 
-## 🔥 About Me 
+# Hey there :wave:
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aadmberrada.aadmberrada)
+
+<img src="https://raw.githubusercontent.com/aadmberrada/aadmberrada/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/aadmberrada/count.svg" />
+</p>
+
+## 😎 About Me 
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -17,11 +27,11 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
-## 🔥 GitHub stats 
+## 👀 GitHub stats 
 | <a href="https://github.com/aadmberrada/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aadmberrada&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/aadmberrada/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadmberrada&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## 🔥 Activity Graph
+## 📈 📉 Activity Graph
 [![aadmberrada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadmberrada&theme=tokyonight)](https://git.io/praveenscience)
 
 
