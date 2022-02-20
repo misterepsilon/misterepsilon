@@ -1,5 +1,6 @@
 
 # Hey there :wave:
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aadmberrada.aadmberrada)
 
 <img src="https://raw.githubusercontent.com/aadmberrada/aadmberrada/master/resources/banner.png" alt="Hello world">
 
@@ -17,5 +18,24 @@
 
 
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class DataScientist:
+
+    def __init__(self):
+        self.name = "Abdoul Aziz BERRADA"
+        self.role = "Data Scientist"
+        self.language_spoken = ["en_US", "fr_FR", "wf_SN"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = DataScientist()
+me.say_hi()
+```
 
 
