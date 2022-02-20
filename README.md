@@ -14,18 +14,11 @@
 
 [![aadmberrada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aadmberrada&theme=tokyonight)](https://git.io/praveenscience)
 
-![aadmberrada GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadmberrada&theme=tokyonight&hide_border=true)
-
 <!-- GitHub Readme Streak Stats - https://github.com/aadmberrada/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/aadmberrada/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aadmberrada's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aadmberrada&theme=tokyonight&hide_border=true"/>
   </a>
-
-
-<a href="https://github.com/aadmberrada/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadmberrada&repo=github-readme-stats&theme=buefy" />
-</a>
 
 ```python
 #!/usr/bin/python
