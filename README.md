@@ -1,7 +1,5 @@
 
 # Hey there :wave:
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aadmberrada.aadmberrada)
-
 <img src="https://raw.githubusercontent.com/aadmberrada/aadmberrada/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
