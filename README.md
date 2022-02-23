@@ -16,8 +16,10 @@ class DataScientist:
 
     def __init__(self):
         self.name = "Abdoul Aziz BERRADA"
-        self.role = "Data Scientist"
+        self.role = "Data Science Student"
         self.language_spoken = ["en_US", "fr_FR", "wf_SN"]
+        self.age = 24
+        self.nationality = Senegalese
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
