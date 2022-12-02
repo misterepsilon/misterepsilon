@@ -28,10 +28,11 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
+<!-- 
 ## 👀 GitHub stats 
 | <a href="https://github.com/misterepsilon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/misterepsilon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+-->
 ## 📈 📉 Activity Graph
 [![misterepsilon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=misterepsilon&theme=tokyonight)](https://git.io/praveenscience)
 
