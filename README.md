@@ -36,7 +36,7 @@ me.say_hi()
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=misterepsilon&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="misterepsilon" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="misterepsilon" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=highcontrast&hide_border=true" alt="misterepsilon" />
+<img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=highcontrast&hide_border=true" alt="misterepsilon" />
 </p>
 
 ## 📈 📉 Activity Graph
@@ -44,7 +44,7 @@ me.say_hi()
 
 ## <h2 align="center">Visitor Count</h2>
  <p align="center"> 
- <img src="https://profile-counter.glitch.me/{misterepsilon}/count.svg" alt="misterepsilon" />
+ <img src="https://profile-counter.glitch.me/{misterepsilon}/count.svg" alt="misterepsilon"/>
 </p>
 
 <!-- 
