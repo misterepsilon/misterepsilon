@@ -1,12 +1,8 @@
-
+<!-- 
 # Hey there :wave:
 <img src="https://raw.githubusercontent.com/misterepsilon/misterepsilon/master/resources/banner.png" alt="Hello world">
+-->
 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/misterepsilon/count.svg" />
-</p>
 
 ## 😎 About Me 
 ```python
@@ -34,9 +30,29 @@ me.say_hi()
 | <a href="https://github.com/misterepsilon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/misterepsilon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
+
+## Stats summary 📈
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=misterepsilon&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="misterepsilon" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="misterepsilon" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=highcontrast&hide_border=true" alt="misterepsilon" />
+</p>
+
 ## 📈 📉 Activity Graph
 [![misterepsilon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=misterepsilon&theme=tokyonight)](https://git.io/praveenscience)
 
+## <h2 align="center">Visitor Count</h2>
+ <p align="center"> 
+ <img src="https://profile-counter.glitch.me/{misterepsilon}/count.svg" alt="misterepsilon" />
+</p>
+
+<!-- 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/misterepsilon/count.svg" />
+</p>
+-->
 <!-- 
 ## 🔥 Streak stats
 GitHub Readme Streak Stats - https://github.com/misterepsilon/github-readme-streak-stats 
