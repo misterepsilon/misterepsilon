@@ -42,7 +42,7 @@ me.say_hi()
 </p>
 
 ## 📈 📉 Activity Graph
-[![misterepsilon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=misterepsilon&theme=tokyonight)](https://git.io/misterepsilon)
+[![misterepsilon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=misterepsilon&theme=tokyonight)](https://github.io/misterepsilon)
 
 ## <h2 align="center">Visitor Count</h2>
  <p align="center"> 
