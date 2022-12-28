@@ -9,20 +9,22 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class DataScientist:
+class MisterEpsilon:
 
     def __init__(self):
         
-        self.surname = "epsilon"
+        self.surname = "Epsilon"
         self.role = "Data Scientist"
         self.language_spoken = ["en_US", "fr_FR", "wf_SN"]
-        self.age = 24
-        self.nationality = "Senegalese"
+        self.nationality = ["Senegalese", "moroccan"]
+        self.favorite_quote = "No weakness, strive for greatness"
+        self.programming_languages = ["Python", "R", "SAS", "Scala", "pySPARK"]
+
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-me = DataScientist()
+me = MisterEpsilon()
 me.say_hi()
 ```
 <!-- 
