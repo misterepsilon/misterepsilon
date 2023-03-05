@@ -41,6 +41,7 @@ me.say_hi()
 <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=highcontrast&hide_border=true" alt="misterepsilon" />
 </p>
 
+<!-- 
 ## 📈 📉 Activity Graph
 [![misterepsilon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=misterepsilon&theme=tokyonight)](https://github.io/misterepsilon)
 
@@ -48,6 +49,7 @@ me.say_hi()
  <p align="center"> 
  <img src="https://profile-counter.glitch.me/{misterepsilon}/count.svg" alt="misterepsilon"/>
 </p>
+-->
 
 <!-- 
 <p align="center"> 
