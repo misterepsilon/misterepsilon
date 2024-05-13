@@ -51,29 +51,28 @@ me = MisterEpsilon()
 me.say_hi()
 ```
 
-## 📫 Get in touch
-- LinkedIn - [Mister Epsilon](https://www.linkedin.com/in/mister-epsilon/)
-- Twitter - [Mister Epsilon](https://twitter.com/MisterEpsilon)
-- Email - [
-- Website - [Mister Epsilon](https://misterepsilon.github.io/)
-- Blog - [Mister Epsilon](https://misterepsilon.github.io/blog/)
-- Kaggle - [Mister Epsilon](https://www.kaggle.com/misterepsilon)
-- ResearchGate - [Mister Epsilon](https://www.researchgate.net/profile/Mister-Epsilon)
-- Google Scholar - [Mister Epsilon](https://scholar.google.com/citations?user=3Z6Z9ZQAAAAJ&hl=en)
-- ORCID - [Mister Epsilon](https://orcid.org/0000-0002-0000-0000)
-- ResearcherID - [Mister Epsilon](https://publons.com/researcher/0000-0000-0000-0000/)
-- Publons - [Mister Epsilon](https://publons.com/researcher/0000-0000-0000-0000/)
-  
 ## 🛠️ Tools & Technologies
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6a6a6a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6a6a6a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6a6a6a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=6a6a6a)
-![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas&logoColor=white&color=6a6a6a)
-![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=6a6a6a)
-![](https://img.shields.io/badge/Tools-SPARK-informational?style=flat&logo=apache-spark&logoColor=white&color=6a6a6a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r)
+![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas)
+![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala)
+![](https://img.shields.io/badge/Tools-SPARK-informational?style=flat&logo=apache-spark)
 
-## 📚 Latest Blog Posts
+
+
+## 📫 How to reach me
+[![Linkedin Badge](https://img.shields.io/badge/-MisterEpsilon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mister-epsilon/)](https://www.linkedin.com/in/mister-epsilon/)
+[![Twitter Badge](https://img.shields.io/badge/-MisterEpsilon-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MisterEpsilon)](https://twitter.com/MisterEpsilon)
+[![Instagram Badge](https://img.shields.io/badge/-MisterEpsilon-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mister.epsilon/)](https://www.instagram.com/mister.epsilon/)
+[![GitHub Badge](https://img.shields.io/badge/-MisterEpsilon-100000?style=flat-square&logo=github&logoColor=white&link=
+
+## 📊 GitHub stats
+[![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula)](
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&layout=compact&theme=dracula)](
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=dracula)](https://git.io/streak-stats)
+
 
 <!-- 
 ## 👀 GitHub stats 
