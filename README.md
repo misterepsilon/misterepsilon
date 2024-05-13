@@ -76,7 +76,7 @@ me.say_hi()
 <!-- Adjust the size here:
 -->
 
-![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula&height=200&width=450)
+![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula&height=250&width=450)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=dracula)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=dracula) 
 
