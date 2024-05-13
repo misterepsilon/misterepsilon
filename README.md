@@ -15,11 +15,15 @@ class MisterEpsilon :
         
         self.surname = "Epsilon"
         self.role = "PhD Student in Financial Engineering | Data Scientist"
-        self.interests = ["Data Science", "Machine Learning", "Deep Learning", "Big Data", "Finance", "Economics", "Statistics", "Quantitative Analysis"]
-        self.hobbies = ["Reading", "Writing", "Traveling", "Photography", "Music", "Movies", "Cooking"]
+        self.interests = ["Data Science", "Machine Learning", "Deep Learning", 
+                          "Big Data", "Finance", "Economics", 
+                          "Statistics", "Quantitative Analysis"]
+        self.hobbies = ["Reading", "Writing", "Music", "Cooking"]
         self.education = {
-                            "degree": ["Master of Science in Data Science", "PhD in Financial Engineering (in progress)"],
-                            "university": ["University Paris 1 Panthéon-Sorbonne", "HEC Montréal"],
+                            "degree": ["Master of Science in Data Science", 
+                                        "PhD in Financial Engineering (in progress)"],
+                            "university": ["University Paris 1 Panthéon-Sorbonne", 
+                                          "HEC Montréal"],
                         }
         self.language_spoken = ["French", "English", "Wolof"]
         self.location = "Montreal, Canada"
