@@ -52,13 +52,13 @@ me.say_hi()
 ```
 
 ## 🛠️ Tools & Technologies
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)(https://www.linux.org/)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code)(https://code.visualstudio.com/)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)(https://www.python.org/)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r)(https://www.r-project.org/)
-![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas)(https://www.sas.com/)
-![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala)(https://www.scala-lang.org/)
-![](https://img.shields.io/badge/Tools-SPARK-informational?style=flat&logo=apache-spark)(https://spark.apache.org/)
+[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)](https://www.linux.org/)
+[![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)](https://www.python.org/)
+[![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r)](https://www.r-project.org/)
+[![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas)](https://www.sas.com/)
+[![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala)](https://www.scala-lang.org/)
+[![](https://img.shields.io/badge/Tools-SPARK-informational?style=flat&logo=apache-spark)](https://spark.apache.org/)
 
 
 
