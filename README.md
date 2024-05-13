@@ -76,11 +76,11 @@ me.say_hi()
 <!-- Adjust the size here:
 -->
 
-![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula&hide_border=true)
+![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=highcontrast&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=highcontrast&hide_border=true) 
 
 ## 📈 Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/misterepsilon/count.svg)
@@ -96,8 +96,8 @@ me.say_hi()
 ## Stats summary 📈
 <!-- 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=misterepsilon&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="misterepsilon" /> 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="misterepsilon" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=misterepsilon&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="misterepsilon" /> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="misterepsilon" />
 <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=highcontrast&hide_border=true" alt="misterepsilon" />
 </p>
 
