@@ -51,22 +51,6 @@ me = MisterEpsilon()
 me.say_hi()
 ```
 
-```r
-# R code
-
-say_hi <- function() {
-  cat("Hello, World! This is Mister Epsilon. Welcome to my GitHub profile. \n",
-      "I am a PhD Student in Financial Engineering | Data Scientist based in Montreal, Canada. \n",
-      "I am currently pursuing a PhD in Financial Engineering at HEC Montréal. \n",
-      "I am passionate about Data Science, Machine Learning, Deep Learning, Big Data, Finance, Economics, Statistics, Quantitative Analysis and Reading, Writing, Music, Volleyball. \n",
-      "I speak French, English, Wolof and my favorite quote is: 'No weakness, strive for greatness'. \n",
-      "I am proficient in Python, R, SAS, Scala, pySPARK."
-  )
-}
-
-say_hi()
-```
-
 ## 🛠️ Tools & Technologies
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r)](https://www.r-project.org/)
