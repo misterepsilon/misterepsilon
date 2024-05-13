@@ -74,8 +74,9 @@ me.say_hi()
 -->
 ## 📊 GitHub stats
 ![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=dracula) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=dracula)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=dracula) 
+
 
 
 <!-- 
