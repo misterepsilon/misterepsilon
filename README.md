@@ -51,6 +51,30 @@ me = MisterEpsilon()
 me.say_hi()
 ```
 
+## 📫 Get in touch
+- LinkedIn - [Mister Epsilon](https://www.linkedin.com/in/mister-epsilon/)
+- Twitter - [Mister Epsilon](https://twitter.com/MisterEpsilon)
+- Email - [
+- Website - [Mister Epsilon](https://misterepsilon.github.io/)
+- Blog - [Mister Epsilon](https://misterepsilon.github.io/blog/)
+- Kaggle - [Mister Epsilon](https://www.kaggle.com/misterepsilon)
+- ResearchGate - [Mister Epsilon](https://www.researchgate.net/profile/Mister-Epsilon)
+- Google Scholar - [Mister Epsilon](https://scholar.google.com/citations?user=3Z6Z9ZQAAAAJ&hl=en)
+- ORCID - [Mister Epsilon](https://orcid.org/0000-0002-0000-0000)
+- ResearcherID - [Mister Epsilon](https://publons.com/researcher/0000-0000-0000-0000/)
+- Publons - [Mister Epsilon](https://publons.com/researcher/0000-0000-0000-0000/)
+  
+## 🛠️ Tools & Technologies
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6a6a6a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6a6a6a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6a6a6a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=6a6a6a)
+![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas&logoColor=white&color=6a6a6a)
+![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=6a6a6a)
+![](https://img.shields.io/badge/Tools-SPARK-informational?style=flat&logo=apache-spark&logoColor=white&color=6a6a6a)
+
+## 📚 Latest Blog Posts
+
 <!-- 
 ## 👀 GitHub stats 
 | <a href="https://github.com/misterepsilon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/misterepsilon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=tokyonight&hide_border=true" /></a> |
