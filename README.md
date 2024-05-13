@@ -65,12 +65,14 @@ me.say_hi()
 ## 📫 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-MisterEpsilon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mister-epsilon/)](https://www.linkedin.com/in/mister-epsilon/)
 [![Twitter Badge](https://img.shields.io/badge/-MisterEpsilon-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MisterEpsilon)](https://twitter.com/MisterEpsilon)
+<!-- 
 [![Instagram Badge](https://img.shields.io/badge/-MisterEpsilon-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mister.epsilon/)](https://www.instagram.com/mister.epsilon/)
-[![GitHub Badge](https://img.shields.io/badge/-MisterEpsilon-100000?style=flat-square&logo=github&logoColor=white&link=
+--> 
+[![GitHub Badge](https://img.shields.io/badge/-MisterEpsilon-100000?style=flat-square&logo=github&logoColor=white&link=)]
 
 ## 📊 GitHub stats
-[![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula)](
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&layout=compact&theme=dracula)](
+[![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&layout=compact&theme=dracula)]
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=dracula)](https://git.io/streak-stats)
 
 
@@ -79,9 +81,9 @@ me.say_hi()
 | <a href="https://github.com/misterepsilon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/misterepsilon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
-
+<!-- 
 ## Stats summary 📈
-
+<!-- 
 <p align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=misterepsilon&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="misterepsilon" /> 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="misterepsilon" />
