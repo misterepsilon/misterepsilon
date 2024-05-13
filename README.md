@@ -73,21 +73,12 @@ me.say_hi()
 [![GitHub Badge](https://img.shields.io/badge/-MisterEpsilon-100000?style=flat-square&logo=github&logoColor=white&link=)]
 -->
 ## 📊 GitHub stats
-< p align = "center" >
-  < img src = "https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula" alt = "misterepsilon" />
-  < img src = "https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=dracula" alt = "misterepsilon" />
-  < img src = "https://github-readme-stats.vercel.app/api/top-langs?username=misterepsilon&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt = "misterepsilon" />
-</ p >
 
 ![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=dracula)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=dracula) 
 
-
-## 📈 Activity Graph
-[![MisterEpsilon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=misterepsilon&theme=dracula)]
-
-## 📈 Visitor Count
+## 📈 Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/misterepsilon/count.svg)
 
 
