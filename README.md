@@ -14,12 +14,17 @@ class MisterEpsilon :
     def __init__(self) :
         
         self.surname = "Epsilon"
-        self.role = "Data Scientist"
-        self.language_spoken = ["en_US", "fr_FR", "wf_SN"]
-        self.nationality = ["senegalese", "moroccan"]
+        self.role = "PhD Student in Financial Engineering | Data Scientist"
+        self.interests = ["Data Science", "Machine Learning", "Deep Learning", "Big Data", "Finance", "Economics", "Statistics", "Quantitative Analysis"]
+        self.hobbies = ["Reading", "Writing", "Traveling", "Photography", "Music", "Movies", "Cooking"]
+        self.education = {
+                            "degree": ["Master of Science in Data Science", "PhD in Financial Engineering (in progress)"],
+                            "university": ["University Paris 1 Panthéon-Sorbonne", "HEC Montréal"],
+                        }
+        self.language_spoken = ["French", "English", "Wolof"]
+        self.location = "Montreal, Canada"
         self.favorite_quote = "No weakness, strive for greatness "
         self.programming_languages = ["Python", "R", "SAS", "Scala", "pySPARK"]
-
 
     def say_hi(self) :
         print("Thanks for dropping by, hope you find some of my work interesting.")
