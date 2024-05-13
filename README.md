@@ -31,7 +31,21 @@ class MisterEpsilon :
         self.programming_languages = ["Python", "R", "SAS", "Scala", "pySPARK"]
 
     def say_hi(self) :
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Hello, World! This is Mister Epsilon. Welcome to my GitHub profile. \n"
+              "I am a {} based in {}. \n"
+              "I am currently pursuing a {} at {}. \n"
+              "I am passionate about {} and {}.\n"
+              "I speak {} and my favorite quote is: '{}'.\n"
+              "I am proficient in {}.".format(self.role, 
+                                              self.location, 
+                                              self.education["degree"][1], 
+                                              self.education["university"][1], 
+                                              ', '.join(self.interests), 
+                                              ', '.join(self.hobbies), 
+                                              ', '.join(self.language_spoken), 
+                                              self.favorite_quote, 
+                                              ', '.join(self.programming_languages))
+              )
 
 me = MisterEpsilon()
 me.say_hi()
