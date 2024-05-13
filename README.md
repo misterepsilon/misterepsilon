@@ -71,8 +71,8 @@ me.say_hi()
 [![GitHub Badge](https://img.shields.io/badge/-MisterEpsilon-100000?style=flat-square&logo=github&logoColor=white&link=)]
 
 ## 📊 GitHub stats
-[![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&layout=compact&theme=dracula)]
+![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&layout=compact&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=dracula)](https://git.io/streak-stats)
 
 
