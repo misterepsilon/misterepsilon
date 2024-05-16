@@ -1,9 +1,3 @@
-<!-- 
-# Hey there :wave:
-<img src="https://raw.githubusercontent.com/misterepsilon/misterepsilon/master/resources/banner.png" alt="Hello world">
--->
-
-
 ## 😎 About Me 
 ```python
 #!/usr/bin/python
@@ -63,18 +57,12 @@ me.say_hi()
 
 
 ## 📫 How to reach me
-<!-- 
-[![Linkedin Badge](https://img.shields.io/badge/-MisterEpsilon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mister-epsilon/)](https://www.linkedin.com/in/mister-epsilon/)
---> 
+
 [![Twitter Badge](https://img.shields.io/badge/-MisterEpsilon-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MisterEpsilon)](https://twitter.com/mister_epsilon_)
-<!-- 
-[![Instagram Badge](https://img.shields.io/badge/-MisterEpsilon-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mister.epsilon/)](https://www.instagram.com/mister.epsilon/)
- 
-[![GitHub Badge](https://img.shields.io/badge/-MisterEpsilon-100000?style=flat-square&logo=github&logoColor=white&link=)]
--->
+
+
 ## 📊 GitHub stats
-<!-- Adjust the size here:
--->
+
 
 ![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=highcontrast&hide_border=true)
 
@@ -84,48 +72,3 @@ me.say_hi()
 
 ## 📈 Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/misterepsilon/count.svg)
-
-
-
-<!-- 
-## 👀 GitHub stats 
-| <a href="https://github.com/misterepsilon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/misterepsilon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
--->
-<!-- 
-## Stats summary 📈
-<!-- 
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=misterepsilon&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="misterepsilon" /> 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="misterepsilon" />
-<img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=highcontrast&hide_border=true" alt="misterepsilon" />
-</p>
-
-<!-- 
-## 📈 📉 Activity Graph
-[![misterepsilon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=misterepsilon&theme=tokyonight)](https://github.io/misterepsilon)
-
-## <h2 align="center">Visitor Count</h2>
- <p align="center"> 
- <img src="https://profile-counter.glitch.me/{misterepsilon}/count.svg" alt="misterepsilon"/>
-</p>
--->
-
-<!-- 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/misterepsilon/count.svg" />
-</p>
--->
-<!-- 
-## 🔥 Streak stats
-GitHub Readme Streak Stats - https://github.com/misterepsilon/github-readme-streak-stats 
-<p align="center">
-  <a href="https://github.com/misterepsilon/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="misterepsilon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=tokyonight&hide_border=true"/>
-  </a>
--->
-
-
-
-
