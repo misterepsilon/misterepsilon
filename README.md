@@ -63,7 +63,6 @@ me.say_hi()
 
 ## 📊 GitHub stats
 
-
 ![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=highcontrast&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
@@ -71,4 +70,5 @@ me.say_hi()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=highcontrast&hide_border=true) 
 
 ## 📈 Visitors Count
+
 ![Visitor Count](https://profile-counter.glitch.me/misterepsilon/count.svg)
