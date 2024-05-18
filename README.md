@@ -21,7 +21,7 @@ class MisterEpsilon :
                         }
         self.language_spoken = ["French", "English", "Wolof"]
         self.location = "Montreal, Canada"
-        self.favorite_quote = "No weakness, strive for greatness "
+        self.favorite_quote = "No weakness, strive for greatness"
         self.programming_languages = ["Python", "R", "SAS", "Scala", "pySPARK"]
 
     def say_hi(self) :
