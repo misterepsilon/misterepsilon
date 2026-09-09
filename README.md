@@ -65,11 +65,14 @@ me.say_hi()
 
 ## 📊 GitHub stats
 
-![MisterEpsilon's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misterepsilon&theme=high_contrast)
+<p align="center">
+  <img width="49%" alt="MisterEpsilon's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misterepsilon&theme=transparent" />
+  <img width="49%" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=misterepsilon&theme=transparent" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=misterepsilon&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=misterepsilon&theme=high_contrast)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=misterepsilon&theme=highcontrast&hide_border=true" /></a>
+</p>
 
 ## 📈 Visitors Count
 
