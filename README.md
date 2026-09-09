@@ -65,12 +65,12 @@ me.say_hi()
 
 ## 📊 GitHub stats
 
-![MisterEpsilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterepsilon&show_icons=true&theme=highcontrast&hide_border=true)
+![MisterEpsilon's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misterepsilon&theme=high_contrast)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterepsilon&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=misterepsilon&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterepsilon&theme=highcontrast&hide_border=true) 
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=misterepsilon&theme=high_contrast)
 
 ## 📈 Visitors Count
 
-![Visitor Count](https://profile-counter.glitch.me/misterepsilon/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=misterepsilon&style=flat-square&color=blue)
