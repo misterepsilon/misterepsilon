@@ -57,12 +57,6 @@ me.say_hi()
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)](https://www.linux.org/)
 
 
-
-## 📫 How to reach me
-
-[![Twitter Badge](https://img.shields.io/badge/-MisterEpsilon-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MisterEpsilon)](https://twitter.com/mister_epsilon_)
-
-
 ## 📊 GitHub stats
 
 <p align="center">
@@ -74,6 +68,11 @@ me.say_hi()
   <a href="https://git.io/streak-stats"><img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=misterepsilon&theme=highcontrast&hide_border=true" /></a>
 </p>
 
-## 📈 Visitors Count
+## 📈 Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=misterepsilon&style=flat-square&color=blue)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="resources/visitors-dark.svg" />
+    <img width="100%" alt="New profile visitors per day" src="resources/visitors-light.svg" />
+  </picture>
+</p>

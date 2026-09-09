@@ -1,0 +1,40 @@
+name: Track profile visitors
+
+on:
+  schedule:
+    # 04:10 UTC daily. Off the hour, since GitHub delays cron runs scheduled
+    # on busy round times.
+    - cron: "10 4 * * *"
+  workflow_dispatch:
+
+# Only one run at a time, so two runs never race on the same commit.
+concurrency:
+  group: visitors
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Record today's reading and redraw the chart
+        run: python scripts/track_visitors.py
+
+      - name: Commit if the data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add resources/visitors.json resources/visitors-light.svg resources/visitors-dark.svg
+          if git diff --staged --quiet; then
+            echo "No change today."
+          else
+            git commit -m "chore: record daily visitor count [skip ci]"
+            git push
+          fi
