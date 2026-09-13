@@ -76,3 +76,11 @@ me.say_hi()
     <img width="100%" alt="New profile visitors per day" src="resources/visitors-light.svg" />
   </picture>
 </p>
+
+<!-- Keep this badge: it is the data source, not decoration. It ships
+     no-cache headers so GitHub's image proxy re-fetches it on every profile
+     view, and that request is what increments the count the chart above
+     plots. Remove it and the counter freezes and every day reads zero. -->
+<p align="center">
+  <img alt="Total profile views" src="https://komarev.com/ghpvc/?username=misterepsilon&style=flat-square&color=blue&label=Total+profile+views" />
+</p>

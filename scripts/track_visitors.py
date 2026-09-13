@@ -173,10 +173,16 @@ def render(theme, history):
         '<text x="%d" y="26" font-family="%s" font-size="15" font-weight="600" fill="%s">'
         "New visitors per day</text>" % (PAD_L, FONT, theme["text_primary"])
     )
+    # A counter that never moves means the badge has stopped being fetched --
+    # almost always because it was dropped from the README. Say so on the chart
+    # rather than drawing a convincing flat line.
+    subtitle = "%d profile views in total &#183; since %s" % (total, history[0]["date"])
+    if len(points) >= 3 and vmax == 0:
+        subtitle += " &#183; counter has not moved: is the badge still in the README?"
+
     out.append(
-        '<text x="%d" y="45" font-family="%s" font-size="12" fill="%s">'
-        "%d profile views in total &#183; since %s</text>"
-        % (PAD_L, FONT, theme["text_secondary"], total, history[0]["date"])
+        '<text x="%d" y="45" font-family="%s" font-size="12" fill="%s">%s</text>'
+        % (PAD_L, FONT, theme["text_secondary"], subtitle)
     )
 
     # Recessive horizontal grid, with the y labels in muted ink.
