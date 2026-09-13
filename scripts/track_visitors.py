@@ -139,7 +139,6 @@ def render(theme, history):
         delta = max(0, cur["total"] - prev["total"])
         points.append((datetime.strptime(cur["date"], "%Y-%m-%d").date(), delta))
 
-    total = history[-1]["total"]
     vmax = max(v for _, v in points)
     ticks = nice_ticks(vmax)
     top = ticks[-1]
@@ -156,11 +155,11 @@ def render(theme, history):
     out.append(
         '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d"'
         ' role="img" aria-label="Daily new profile visitors from %s to %s. Peak %d in a day,'
-        ' %d views in total.">'
-        % (W, H, W, H, history[1]["date"], history[-1]["date"], vmax, total)
+        ' %d on the latest day.">'
+        % (W, H, W, H, history[1]["date"], history[-1]["date"], vmax, points[-1][1])
     )
     out.append(
-        "<title>Daily new profile visitors &#8212; peak %d/day, %d total</title>" % (vmax, total)
+        "<title>Daily new profile visitors &#8212; peak %d/day</title>" % vmax
     )
     out.append(
         '<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">'
@@ -173,10 +172,14 @@ def render(theme, history):
         '<text x="%d" y="26" font-family="%s" font-size="15" font-weight="600" fill="%s">'
         "New visitors per day</text>" % (PAD_L, FONT, theme["text_primary"])
     )
+    # Deliberately no cumulative total here. The chart is a snapshot from the
+    # last daily run; the badge under it is live, so the two would disagree
+    # every day between crons. The badge owns the running total.
+    subtitle = "daily since %s &#183; %d days recorded" % (history[0]["date"], len(history))
+
     # A counter that never moves means the badge has stopped being fetched --
     # almost always because it was dropped from the README. Say so on the chart
     # rather than drawing a convincing flat line.
-    subtitle = "%d profile views in total &#183; since %s" % (total, history[0]["date"])
     if len(points) >= 3 and vmax == 0:
         subtitle += " &#183; counter has not moved: is the badge still in the README?"
 
