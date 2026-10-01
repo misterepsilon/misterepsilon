@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="880" height="280" role="img" aria-label="Daily new profile visitors from 2026-09-13 to 2026-09-30. Peak 12 in a day, 4 on the latest day.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="880" height="280" role="img" aria-label="Daily new profile visitors from 2026-09-13 to 2026-10-01. Peak 12 in a day, 0 on the latest day.">
 <title>Daily new profile visitors &#8212; peak 12/day</title>
 <defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#3987e5" stop-opacity="0.22"/><stop offset="100%" stop-color="#3987e5" stop-opacity="0"/></linearGradient></defs>
 <text x="56" y="26" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">New visitors per day</text>
-<text x="56" y="45" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9198a1">daily since 2026-09-12 &#183; 19 days recorded</text>
+<text x="56" y="45" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9198a1">daily since 2026-09-12 &#183; 20 days recorded</text>
 <line x1="56" y1="240.0" x2="856" y2="240.0" stroke="#3d444d" stroke-width="1" stroke-opacity="0.55"/>
 <text x="46" y="244.0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">0</text>
 <line x1="56" y1="178.7" x2="856" y2="178.7" stroke="#3d444d" stroke-width="1" stroke-opacity="0.55"/>
@@ -11,33 +11,34 @@
 <text x="46" y="121.3" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">10</text>
 <line x1="56" y1="56.0" x2="856" y2="56.0" stroke="#3d444d" stroke-width="1" stroke-opacity="0.55"/>
 <text x="46" y="60.0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">15</text>
-<path d="M 56.0 240 L 56.0 227.7 L 103.1 203.2 L 150.1 129.6 L 197.2 190.9 L 244.2 141.9 L 291.3 190.9 L 338.4 166.4 L 385.4 240.0 L 432.5 215.5 L 479.5 215.5 L 526.6 227.7 L 573.6 203.2 L 620.7 92.8 L 667.8 227.7 L 714.8 240.0 L 761.9 240.0 L 808.9 227.7 L 856.0 190.9 L 856.0 240 Z" fill="url(#fade)"/>
-<path d="M 56.0 227.7 L 103.1 203.2 L 150.1 129.6 L 197.2 190.9 L 244.2 141.9 L 291.3 190.9 L 338.4 166.4 L 385.4 240.0 L 432.5 215.5 L 479.5 215.5 L 526.6 227.7 L 573.6 203.2 L 620.7 92.8 L 667.8 227.7 L 714.8 240.0 L 761.9 240.0 L 808.9 227.7 L 856.0 190.9" fill="none" stroke="#3987e5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 56.0 240 L 56.0 227.7 L 100.4 203.2 L 144.9 129.6 L 189.3 190.9 L 233.8 141.9 L 278.2 190.9 L 322.7 166.4 L 367.1 240.0 L 411.6 215.5 L 456.0 215.5 L 500.4 227.7 L 544.9 203.2 L 589.3 92.8 L 633.8 227.7 L 678.2 240.0 L 722.7 240.0 L 767.1 227.7 L 811.6 190.9 L 856.0 240.0 L 856.0 240 Z" fill="url(#fade)"/>
+<path d="M 56.0 227.7 L 100.4 203.2 L 144.9 129.6 L 189.3 190.9 L 233.8 141.9 L 278.2 190.9 L 322.7 166.4 L 367.1 240.0 L 411.6 215.5 L 456.0 215.5 L 500.4 227.7 L 544.9 203.2 L 589.3 92.8 L 633.8 227.7 L 678.2 240.0 L 722.7 240.0 L 767.1 227.7 L 811.6 190.9 L 856.0 240.0" fill="none" stroke="#3987e5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="56.0" cy="227.7" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="103.1" cy="203.2" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="150.1" cy="129.6" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="197.2" cy="190.9" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="244.2" cy="141.9" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="291.3" cy="190.9" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="338.4" cy="166.4" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="385.4" cy="240.0" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="432.5" cy="215.5" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="479.5" cy="215.5" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="526.6" cy="227.7" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="573.6" cy="203.2" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="620.7" cy="92.8" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="667.8" cy="227.7" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="714.8" cy="240.0" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="761.9" cy="240.0" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="808.9" cy="227.7" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<circle cx="856.0" cy="190.9" r="5" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<text x="856.0" y="178.9" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#f0f6fc">4</text>
+<circle cx="100.4" cy="203.2" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="144.9" cy="129.6" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="189.3" cy="190.9" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="233.8" cy="141.9" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="278.2" cy="190.9" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="322.7" cy="166.4" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="367.1" cy="240.0" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="411.6" cy="215.5" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="456.0" cy="215.5" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="500.4" cy="227.7" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="544.9" cy="203.2" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="589.3" cy="92.8" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="633.8" cy="227.7" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="678.2" cy="240.0" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="722.7" cy="240.0" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="767.1" cy="227.7" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="811.6" cy="190.9" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<circle cx="856.0" cy="240.0" r="5" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<text x="856.0" y="228.0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#f0f6fc">0</text>
 <line x1="56" y1="240" x2="856" y2="240" stroke="#3d444d" stroke-width="1"/>
 <text x="56.0" y="262" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 13</text>
-<text x="197.2" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 16</text>
-<text x="338.4" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 19</text>
-<text x="479.5" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 22</text>
-<text x="620.7" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 25</text>
-<text x="761.9" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 28</text>
-<text x="856.0" y="262" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 30</text>
+<text x="189.3" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 16</text>
+<text x="322.7" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 19</text>
+<text x="456.0" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 22</text>
+<text x="589.3" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 25</text>
+<text x="722.7" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Sep 28</text>
+<text x="856.0" y="262" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9198a1">Oct 1</text>
 </svg>
